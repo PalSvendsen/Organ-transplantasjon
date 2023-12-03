@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Organ transplantasjon", "Organ transplantasjon\Organ transplantasjon.csproj", "{A1835645-983A-499D-903B-ECC235F09DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1835645-983A-499D-903B-ECC235F09DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1835645-983A-499D-903B-ECC235F09DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1835645-983A-499D-903B-ECC235F09DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1835645-983A-499D-903B-ECC235F09DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AEC6171-50DF-4C3E-A94F-516AE8E993CD}
+	EndGlobalSection
+EndGlobal
